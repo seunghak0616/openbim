@@ -1,0 +1,97 @@
+## Website Analysis
+
+### 1. Airbnb Experiences (airbnb.com/s/experiences)
+
+*   **Key Features:**
+    *   Platform for booking unique local experiences hosted by individuals.
+    *   Search functionality based on location, date, and number of guests.
+    *   Allows users to become hosts and list their own experiences.
+    *   Filtering options for experience type and duration.
+    *   Displays experiences with images, titles, categories (e.g., Art, Workouts, Wildlife), duration, price, ratings, and reviews.
+    *   Highlights "Popular" experiences.
+*   **Design Elements (inferred from text output):**
+    *   Highly visual, relying on compelling images for each experience (though images themselves are not rendered in text).
+    *   Card-based layout for browsing.
+    *   Clear calls to action (e.g., "Start your search").
+    *   Prominent display of user ratings and reviews to build trust.
+*   **Content Strategy:**
+    *   User-generated content is core, with hosts providing the experiences.
+    *   Focuses on unique, local, and often niche activities.
+    *   Categorization aids discovery.
+    *   Leverages social proof (ratings, reviews) to drive engagement.
+    *   Aims to inspire travel through activities rather than just accommodation.
+
+### 2. Korea Tourism Organization (english.visitkorea.or.kr)
+
+*   **Key Features:**
+    *   Official and comprehensive tourism portal for South Korea.
+    *   **"Plan Your Trip":** Includes a travel planner tool, information about Korea (facts, history, culture), and practical travel info (basics, transport, accommodation, food, shopping).
+    *   **"Where to Go":** Features destinations, suggested itineraries, and "100 Must-Visit Tourist Spots."
+    *   **"Things to Do":** Highlights travel trends, KTO's picks, promotions/coupons, tours/packages, and extensive thematic browsing (Hallyu, cultural activities, festivals, DMZ, UNESCO sites, wellness, Muslim-friendly, traditional markets, etc.).
+    *   **News & Updates:** Travel news and a travel calendar.
+    *   **Practical Aids:** Weather info, KTO overseas office details, map services, 1330 Travel Helpline.
+    *   Multilingual support.
+    *   User accounts for personalized features.
+*   **Design Elements (inferred from text output and site structure):**
+    *   Well-organized, hierarchical navigation suitable for a content-rich site.
+    *   Likely image-heavy to showcase attractions (text output refers to visual elements like "main_visua").
+    *   Clear calls to action for planning and exploration.
+*   **Content Strategy:**
+    *   Aims to be the authoritative source for inbound tourism.
+    *   Caters to a wide array of traveler interests through thematic content.
+    *   Actively promotes events, discounts, and travel packages.
+    *   Provides both inspirational and practical travel information.
+    *   Encourages user engagement through planning tools and personalized accounts.
+    *   Global outreach via multilingual content and overseas offices.
+
+### 3. Daegu University - Department of Industrial Design (didshow.daegu.ac.kr)
+
+*(Note: This is for Daegu University, not Kyungil University. Provided as per request.)*
+
+*   **Key Features:**
+    *   **Department Information ("DID"):** 학과소개 (Department Introduction), 교육방향 (Educational Direction), 시설소개 (Facility Introduction), 취득자격증 및 졸업 후 진로 (Certificates Obtainable and Career Paths after Graduation).
+    *   **Curriculum:** DID 클래스 (DID Class), 커리큘럼 맵 (Curriculum Map).
+    *   **Faculty ("PROFESSOR"):** Detailed profiles of professors including their education, career, contact information (office, phone, email), and major.
+    *   **Student Projects ("PROJECTS"):** Showcases student work with titles and student names (e.g., "FORGET _ 천희탁"). This is a key feature for a design department.
+    *   **Community:** 공지사항 (Notices), 이슈 (Issues/News).
+    *   **Admissions ("ADMISSION"):** 입학안내 (Admission Guide), 학사/편입학 (Bachelor's/Transfer Admission).
+    *   Career Paths Visualized: A section lists various design careers students can pursue (UI/UX Designer, Game Designer, etc.) and links to the curriculum.
+*   **Design Elements (from text output):**
+    *   Visual Focus: The homepage prominently displays student projects ("Projects View").
+    *   Clear Navigation: Main menu items are clear: DID, CURRICULUM, PROFESSOR, PROJECTS, COMMUNITY, ADMISSION.
+    *   Professional Layout: Professor profiles are well-structured with images (referenced by image filenames) and detailed information.
+    *   Contact Information: Easily accessible contact details for the department and individual professors.
+*   **Content Strategy:**
+    *   Showcasing Student Talent: The "PROJECTS" section is central, highlighting practical outcomes.
+    *   Faculty Expertise: Detailed professor profiles emphasize the quality of instruction.
+    *   Career-Oriented: Clearly outlines potential career paths and the curriculum designed to reach them.
+    *   Informative for Prospective Students: Provides thorough information on admissions, curriculum, and department facilities.
+    *   Community Building: "Notices" and "Issues" sections help keep current students and faculty informed.
+
+---
+
+## Gyeongsan - General Information (from Wikipedia)
+
+*   **Type:** Municipal City.
+*   **Location:** North Gyeongsang Province, South Korea. It is a satellite city of Daegu and a significant portion of Gyeongsan is part of the Daegu metropolitan area.
+*   **Korean Name:**
+    *   Hangul: 경산시
+    *   Hanja: 慶山市
+*   **Area:** Approximately 411.58 km².
+*   **Population:** Approximately 266,951 (as of September 2024).
+*   **Administrative Divisions:** The city is divided into eup (towns), myeon (townships), and dong (neighborhoods). As of the information retrieved, specific counts were 2 eup, 6 myeon, 6 dong, with listed names including Hayang-eup, Jillyang-eup, Amnyang-eup, Wachon-myeon, Jain-myeon, Yongseong-myeon, Namsan-myeon, Namcheon-myeon, Jungang-dong, Dongbu-dong, Seobu 1-dong, Seobu 2-dong, Nambu-dong, Bukbu-dong, and Jungbang-dong. (A slight variation in counts was noted across different access attempts of the source).
+*   **Educational Hub:** Gyeongsan is home to numerous universities, including Yeungnam University, Daegu University, Daekyeung University, Catholic University of Daegu, Daegu Haany University, and Gyeongil University.
+*   **Past Event:** Hosted the 38th International Chemistry Olympiad from July 2 to July 11, 2006.
+*   **City Symbols:**
+    *   **City Flower:** Magnolia (Represents strong vitality and growth even in challenging conditions).
+    *   **City Bird:** Magpie (Its clear song is said to reflect the bright and hopeful spirit of the citizens).
+    *   **City Tree:** Ginkgo (Symbolizes constant prosperity, the perseverance and elegant traits of Gyeongsan's people).
+*   **Twin Towns – Sister Cities:**
+    *   Gangdong (Seoul), South Korea
+    *   Jōyō, Japan
+    *   Sinan, South Korea
+    *   Xihai'an, China
+*   **Climate:** The climate is generally mild due to its southern location. However, being an inland city, it experiences continental climate characteristics. Annual rainfall is typically less than the average for Korea.
+*   **Religion:** Hwanseongsa Temple is mentioned as a religious site in Gyeongsan.
+
+*(Note: This information is based on the English Wikipedia page for Gyeongsan. Access to the Gyeongsan city government website and other local sites was previously restricted, limiting more detailed or official local information.)*

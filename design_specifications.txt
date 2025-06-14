@@ -1,0 +1,154 @@
+# Design Specifications: Gyeongsan & Kyungil University Design Dept. Website
+
+## 1. Overall Design Philosophy
+
+*   **Target Audience:**
+    *   **Primary:** Prospective students for Kyungil University's Department of Design Convergence.
+    *   **Secondary:** Current students of Kyungil University, general visitors/tourists interested in Gyeongsan (especially younger adults, couples).
+*   **Mood and Feel:**
+    *   Youthful, vibrant, energetic.
+    *   Informative and trustworthy.
+    *   Welcoming and engaging.
+    *   Slightly adventurous, encouraging exploration of Gyeongsan.
+    *   Modern and innovative, especially for the University section.
+*   **Key Design Principles:**
+    *   **Clean & Modern:** Uncluttered layouts, contemporary UI elements.
+    *   **Image-Focused:** High-quality visuals to be a core part of the experience, making the site attractive and engaging.
+    *   **Easy to Navigate:** Intuitive navigation, clear hierarchy of information.
+    *   **Mobile-Responsive:** (Implicit for modern web design) The design should adapt seamlessly to various screen sizes.
+    *   **Readable:** Clear typography and good contrast for accessibility.
+
+## 2. Branding Elements (Suggestions)
+
+*   **Color Palette:**
+    *   *(Note: As Kyungil University's official branding is unknown, this is a suggested palette. If the university's branding guidelines become available, they should take precedence, especially for the department promotion page.)*
+    *   **Primary Color:**
+        *   `#28A7E9` (Vibrant Blue): Modern, trustworthy, associated with innovation and youth. Could be used for calls to action, links, and key headings.
+    *   **Secondary Colors:**
+        *   `#FFFFFF` (White): For backgrounds, providing a clean and spacious feel.
+        *   `#F4F4F4` (Light Gray): For subtle background variations or card elements.
+        *   `#333333` (Dark Gray/Off-Black): For body text, ensuring high readability.
+    *   **Accent Colors:**
+        *   `#FFD700` (Bright Yellow/Gold): For highlights, icons, or secondary calls to action. Adds energy and optimism.
+        *   `#4CAF50` (Fresh Green): Could be used for elements related to nature, parks, or positive outcomes (e.g., career prospects).
+*   **Typography:**
+    *   **Headings (H1, H2, H3):**
+        *   **Font:** `Montserrat` (Google Font) - A modern, geometric sans-serif font that is clean and versatile, good for youthful branding.
+        *   **Fallback:** `Arial`, `Helvetica`, `sans-serif`.
+        *   **Style:** Bold, varying weights for hierarchy.
+    *   **Body Text:**
+        *   **Font:** `Open Sans` (Google Font) - Highly readable, neutral, and friendly sans-serif, excellent for on-screen text.
+        *   **Fallback:** `Verdana`, `Geneva`, `sans-serif`.
+        *   **Style:** Regular weight, adequate line spacing for readability.
+    *   **Alternative Web-Safe Pairing (if Google Fonts are not desired):**
+        *   Headings: `Arial Black` or `Impact` (used sparingly).
+        *   Body: `Arial` or `Verdana`.
+
+## 3. Layout and Structure for Key Page Types
+
+*(Referencing `website_structure_and_content.txt` for content blocks)*
+
+### 3.1. Homepage
+
+*   **Hero Section:**
+    *   Full-width banner image (or a subtle auto-playing slider with 2-3 images: `placeholder_gyeongsan_hero_1.jpg`, `placeholder_campus_life_1.jpg`).
+    *   Text overlay: "Discover Gyeongsan: Tradition, Innovation, and a Touch of Romance." (Large, engaging font - Montserrat).
+    *   Sub-headline: Brief welcome message.
+    *   Button: "Explore Now!" (Primary color: `#28A7E9`).
+*   **Introduction (Website Purpose):**
+    *   Clean text block directly below the hero, using body font (Open Sans).
+*   **Featured Sections (Grid/Card Layout):**
+    *   Use a 2x2 or responsive grid of cards for:
+        *   Gyeongsan Attractions Snippet (Image: `placeholder_alley_1.jpg` or similar)
+        *   Food Highlights Snippet (Image: `placeholder_korean_food_1.jpg`)
+        *   Kyungil University Spotlight (Image: `placeholder_design_innovation_1.jpg` or `placeholder_campus_life_1.jpg`)
+        *   Dating Course Teaser (Image: `placeholder_romantic_korea_1.jpg`)
+    *   Each card should have a placeholder image, a short title, a brief descriptive text, and a "Learn More" link/button (Accent color or understated style).
+*   **Call to Action Section (Optional, if not covered by featured sections):**
+    *   Could be a visually distinct band towards the bottom: "Ready to Discover? [Explore Gyeongsan Button] | [Learn about Design Convergence Button]".
+
+### 3.2. Content Pages (Gyeongsan Attractions, Food & Restaurants)
+
+*   **Header:**
+    *   Prominent page title (e.g., "Gyeongsan Attractions," "Food & Restaurants near Kyungil University").
+    *   Optional: Short introductory paragraph from `website_structure_and_content.txt`.
+*   **Layout for Items (Attractions, Restaurants, Cafes):**
+    *   **Grid Layout:** Use a responsive 2-column or 3-column grid for cards.
+    *   **Each Card:**
+        *   Image: Placeholder image (e.g., `placeholder_historical_site.jpg`, `placeholder_restaurant_food.jpg`).
+        *   Title: Name of the attraction/restaurant.
+        *   Short Description: Placeholder text.
+        *   Link/Button (Optional): "View Details" or "Get Directions" (could be for future map integration).
+    *   **List Layout (Alternative):**
+        *   Items listed vertically. Each item with an image to the left/right and text content beside it. Better for longer descriptions if needed.
+*   **Gyeongsan Alleys Section (on Attractions Page):**
+    *   Initially, a text block with the introductory placeholder.
+    *   Future: Could use a similar grid/list layout for individual alleys, or a more magazine-style layout if content is rich.
+*   **Sidebar (Optional):**
+    *   Could contain:
+        *   Filtering options (e.g., "Filter by type: Historical, Park, Cafe, Korean BBQ" - for future development).
+        *   Links to related pages.
+        *   Small promotional block for Kyungil University Dept.
+
+### 3.3. Recommended Dating Courses Page
+
+*   **Header:** Engaging title like "Romantic Gyeongsan: Curated Dating Courses."
+*   **Layout:**
+    *   Visually distinct sections for each course, separated by horizontal rules or background color variations.
+    *   **Each Course Block:**
+        *   Appealing Title (e.g., "Campus Charm & Cafe Hopping").
+        *   Feature Image: Placeholder image relevant to the course theme (e.g., `placeholder_campus_life_1.jpg` for campus course, `placeholder_romantic_korea_1.jpg` for scenic course).
+        *   Summary Text: Brief overview of the course.
+        *   List of Stops/Activities: Clearly presented, perhaps with small icons if design allows (e.g., coffee cup icon for cafe, tree icon for park).
+        *   "Why it's a great date:" text.
+
+### 3.4. Kyungil University - Department of Design Convergence Promotion Page
+
+*   **Header:**
+    *   Clear title: "Kyungil University - Department of Design Convergence."
+    *   Optional: Subtitle or tagline from `website_structure_and_content.txt`.
+*   **Layout & Style:**
+    *   Modern, professional, and slightly more formal than tourist pages, but still youthful and engaging.
+    *   Inspiration from `http://didshow.daegu.ac.kr/` can be taken for:
+        *   Showcasing student projects (grid layout, modal pop-ups for details if feasible later).
+        *   Clean presentation of program information.
+        *   Professional display of (placeholder) faculty info.
+*   **Key Sections (as per `website_structure_and_content.txt`):**
+    *   **Hero Section:** Dynamic image (`placeholder_design_innovation_1.jpg` or students collaborating).
+    *   **About the Department:** Clean text sections, use of icons for "Why Choose Us" bullet points.
+    *   **Program Highlights/Curriculum:** Clear typographic hierarchy. Could use accordions for detailed course lists if content becomes extensive.
+    *   **Student Projects Showcase:** Prominent grid of placeholder project images (`placeholder_student_project_generic.jpg`). Clicking could eventually lead to more details (placeholder functionality).
+    *   **Faculty Introduction:** Simple text block with a link, or small cards if photos were available.
+    *   **Career Prospects:** Use icons next to listed career paths for visual appeal.
+    *   **Admissions Information & Campus Life:** Clear calls to action, links to (placeholder) official pages.
+
+## 4. Navigation
+
+*   **Main Navigation Bar (Header):**
+    *   Position: Top of the page, sticky if possible for easy access.
+    *   Logo: (Placeholder for "Gyeongsan Explorer & KIU Design Hub" logo - simple text logo initially).
+    *   Links:
+        *   Home
+        *   Gyeongsan Attractions
+        *   Food & Restaurants
+        *   Dating Courses
+        *   Kyungil Design Dept.
+    *   Style: Clean, readable font (Open Sans or Montserrat). Current page highlighted.
+*   **Footer Navigation:**
+    *   Simple, at the bottom of each page.
+    *   Content:
+        *   Copyright © [Current Year] Gyeongsan & KIU Design Hub (or similar).
+        *   Contact: [Placeholder email, e.g., `info@gyeongsan-kiu-promo.com`]
+        *   Social Media Icons (Placeholders for Facebook, Instagram, YouTube - links to generic Kyungil University or Gyeongsan tourism pages if they exist and are found later, otherwise just icons).
+        *   Privacy Policy / Terms of Use (Placeholder links).
+
+## 5. Image Usage
+
+*   **Emphasis on High-Quality:** All images, including placeholders, should be clear, well-composed, and relevant to the content they represent.
+*   **Placeholder Strategy:**
+    *   Use the listed placeholder images thoughtfully within their respective sections as described in section 3.
+    *   Ensure consistency in image aspect ratios within grids if possible (e.g., all cards in a grid use 16:9 or 4:3 images).
+*   **Future-Proofing:** Design should allow for easy replacement of placeholders with actual, specific images of Gyeongsan, Kyungil University, food, etc., once available.
+*   **Alt Text:** (Implementation detail for HTML) All images must have descriptive alt text for accessibility. For placeholders, alt text like "Placeholder image for Gyeongsan historical attraction" is acceptable.
+
+This design specification document provides a foundational blueprint. Actual UI mockups and iterative design would refine these concepts further.

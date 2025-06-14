@@ -1,0 +1,465 @@
+/* Global Resets & Basic Styling */
+body, h1, h2, h3, p, ul, li, a, button {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', Verdana, Geneva, sans-serif;
+    color: #333333;
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1.6;
+    background-color: #FFFFFF;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #28A7E9; /* Primary Color */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header & Navigation */
+header {
+    background: #FFFFFF;
+    padding: 1rem 0;
+    border-bottom: 1px solid #F4F4F4;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #28A7E9; /* Primary Color */
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #333333;
+    padding: 5px 10px;
+    transition: color 0.3s ease;
+}
+
+header nav ul li a.active,
+header nav ul li a:hover {
+    color: #28A7E9; /* Primary Color */
+    font-weight: bold;
+}
+
+#mobile-menu-toggle {
+    display: none; /* Hidden by default, shown in media query */
+    background-color: #28A7E9;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+/* Hero Section (Homepage) */
+#hero {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 60vh; /* Adjust as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #333; /* Fallback if image doesn't load */
+}
+
+#hero .hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Cover the area, might crop */
+    z-index: 1;
+    opacity: 0.7; /* Darken image for text readability */
+}
+
+#hero .hero-text {
+    position: relative;
+    z-index: 2;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.3); /* Semi-transparent background for text */
+    border-radius: 8px;
+}
+
+#hero h1 {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+#hero p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+
+.btn {
+    display: inline-block;
+    background: #28A7E9; /* Primary Color */
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background: #1A78C0; /* Darker shade of primary */
+    text-decoration: none;
+}
+
+.btn-secondary {
+    display: inline-block;
+    background: #FFD700; /* Accent Color */
+    color: #333333;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.btn-secondary:hover {
+    background: #E6C300; /* Darker accent */
+    text-decoration: none;
+}
+
+
+/* General Page Content Styling */
+.page-content {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.page-content h1 {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 2.2rem;
+    color: #28A7E9;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.page-content h2 {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 1.8rem;
+    color: #333333;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #F4F4F4;
+    padding-bottom: 0.5rem;
+}
+
+.page-content h3 {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    color: #28A7E9;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.page-content p, .page-content ul li {
+    margin-bottom: 1rem;
+}
+
+.page-content ul {
+    list-style-position: inside;
+    padding-left: 0; /* Resetting default padding */
+}
+
+/* Homepage Sections */
+#intro, #featured-sections {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+#intro h2, #featured-sections h2 {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #333333;
+}
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    text-align: left;
+}
+
+.feature-card {
+    background: #F4F4F4;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.feature-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.feature-card h3 {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    color: #28A7E9;
+}
+
+/* Attraction & Food Pages */
+.attraction-grid, .content-grid, .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.attraction-card, .content-card, .project-card {
+    background: #FFFFFF;
+    border: 1px solid #F4F4F4;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.attraction-card img, .content-card img, .project-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.full-width-placeholder {
+    width: 100%;
+    height: auto;
+    max-height: 300px; /* Adjust as needed */
+    object-fit: cover;
+    margin: 1rem 0;
+    border-radius: 8px;
+}
+
+.map-placeholder {
+    width: 100%;
+    height: 300px;
+    background-color: #E0E0E0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #777;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
+
+/* Dating Courses Page */
+.dating-course {
+    background: #F9F9F9;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    border-left: 5px solid #FFD700; /* Accent color */
+}
+.dating-course h2 {
+    border-bottom: none; /* Override general h2 style */
+    color: #28A7E9;
+}
+.dating-course .course-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+.dating-course ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Department Page */
+#dept-hero {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+}
+#dept-hero .hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+    opacity: 0.6;
+}
+#dept-hero .hero-text {
+    position: relative;
+    z-index: 2;
+    padding: 20px;
+}
+#dept-hero h1 {
+    color: white;
+    font-size: 2.5rem;
+}
+#dept-hero p {
+    color: white;
+    font-size: 1.1rem;
+}
+
+#about-department ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+#about-department ul li {
+    margin-bottom: 0.5rem;
+}
+
+.inline-image {
+    max-width: 50%;
+    margin: 1rem auto; /* Center if smaller than container */
+    border-radius: 8px;
+}
+
+
+/* Footer */
+footer {
+    background: #333333;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 3rem;
+}
+
+footer p {
+    margin-bottom: 0.5rem;
+    color: #F4F4F4;
+}
+
+footer .social-media a {
+    color: #FFD700; /* Accent Color */
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer .social-media a:hover {
+    color: #FFFFFF;
+}
+
+footer a {
+    color: #F4F4F4;
+}
+footer a:hover {
+    color: #28A7E9;
+}
+
+/* Basic Responsiveness */
+@media (max-width: 768px) {
+    header .container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    header nav {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    header nav ul {
+        display: none; /* Hide by default on mobile */
+        flex-direction: column;
+        width: 100%;
+    }
+
+    header nav ul.active {
+        display: flex; /* Show when toggled */
+    }
+
+    header nav ul li {
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    #mobile-menu-toggle {
+        display: block; /* Show toggle button on mobile */
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+    }
+
+    #hero h1 {
+        font-size: 2rem;
+    }
+    #hero p {
+        font-size: 1rem;
+    }
+
+    .feature-grid, .attraction-grid, .content-grid, .project-grid {
+        grid-template-columns: 1fr; /* Stack cards on smaller screens */
+    }
+
+    .page-content h1 {
+        font-size: 1.8rem;
+    }
+    .page-content h2 {
+        font-size: 1.5rem;
+    }
+    .inline-image {
+        max-width: 100%;
+    }
+}

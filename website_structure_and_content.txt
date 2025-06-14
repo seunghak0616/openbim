@@ -1,0 +1,169 @@
+# Website Structure and Content Plan: Gyeongsan & Kyungil University Design Dept.
+
+## 1. Website Purpose
+
+**Introductory Text:**
+
+"Welcome to your guide to exploring Gyeongsan, a city brimming with hidden gems and youthful energy! Discover fascinating attractions, delightful local cuisine, and unique experiences. This site also offers a special look into the innovative world of Kyungil University's Department of Design Convergence, perfect for prospective students looking to blend creativity with cutting-edge technology. Whether you're a traveler, a foodie, a student, or looking for romantic outing ideas, Gyeongsan has something for you!"
+
+## 2. Sitemap and Page Content Blocks
+
+---
+
+### A. Homepage
+
+*   **Purpose:** Engage visitors, provide an overview of Gyeongsan and the Kyungil University feature, and direct them to key sections of the site.
+*   **Key Sections/Content Blocks:**
+    *   **Hero Section:**
+        *   **Content:** Eye-catching banner image/slider (placeholder: general Gyeongsan scenic view or vibrant street).
+        *   **Text:** "Discover Gyeongsan: Tradition, Innovation, and a Touch of Romance." Brief welcome message highlighting the city's appeal and the university feature.
+        *   **Placeholder Text:** "[Hero image: A beautiful panoramic view of Gyeongsan or a lively street scene. Text overlay: Explore Gyeongsan – Where Heritage Meets the Future. Your adventure starts here!]"
+    *   **Featured Attractions Snippet:**
+        *   **Content:** 2-3 cards or small sections linking to the Gyeongsan Attractions page.
+        *   **Text:** Short blurbs about what makes Gyeongsan unique.
+        *   **Placeholder Text:** "Gyeongsan's Treasures: From historical whispers in ancient alleys to vibrant modern spots, uncover the city's unique charm. [Link to Gyeongsan Attractions Page]. Placeholder: Image of a Korean traditional motif or a modern Gyeongsan landmark."
+    *   **Food Highlights Snippet:**
+        *   **Content:** 2-3 cards linking to the Food & Restaurants page.
+        *   **Text:** Teaser about local cuisine, especially student favorites.
+        *   **Placeholder Text:** "Taste of Gyeongsan: Dive into the local food scene, from bustling student eateries near Kyungil University to traditional Korean delicacies. [Link to Food & Restaurants Page]. Placeholder: Image of delicious Korean food."
+    *   **Kyungil University - Department of Design Convergence Spotlight:**
+        *   **Content:** A dedicated section introducing the department.
+        *   **Text:** Brief intro to the department, its vision, and a call to action to learn more.
+        *   **Placeholder Text:** "Future of Design: Kyungil University's Department of Design Convergence. Where creativity meets technology. Discover innovative programs and student achievements. Ideal for aspiring designers! [Link to Kyungil University Dept. Page]. Placeholder: Image representing design, technology, or university students collaborating."
+    *   **Dating Course Teaser:**
+        *   **Content:** A small, attractive section linking to Recommended Dating Courses.
+        *   **Text:** Hinting at romantic spots and itineraries.
+        *   **Placeholder Text:** "Romantic Gyeongsan: Looking for the perfect date? Explore our curated dating courses combining scenic spots, charming cafes, and memorable experiences. [Link to Dating Courses Page]. Placeholder: Image of a romantic setting or a couple enjoying a view."
+
+---
+
+### B. Gyeongsan Attractions Page
+
+*   **Purpose:** Showcase various attractions in Gyeongsan. Initially general, with placeholders to add specific alley information later.
+*   **Key Sections/Content Blocks:**
+    *   **Introduction to Gyeongsan's Charm:**
+        *   **Content:** Brief overview of Gyeongsan's appeal to tourists (history, nature, modern spots).
+        *   **Placeholder Text:** "Gyeongsan: A City of Contrasts. Explore a captivating blend of historical richness, natural beauty, and vibrant urban life. From ancient temples to modern parks, Gyeongsan offers a diverse range of experiences for every traveler."
+    *   **Historical Sites Section:**
+        *   **Content:** Placeholder for 2-3 historical attractions.
+        *   **Placeholder Text for Attraction 1:** "[Image of a historical site in Gyeongsan, e.g., Hwanseongsa Temple if appropriate, or generic Korean temple/historical landmark]. **[Name of Historical Attraction 1]**: [Brief placeholder description of the attraction, its history, and significance. E.g., Hwanseongsa Temple: A serene mountain temple with a rich history...]"
+        *   **Placeholder Text for Attraction 2:** "[Image of another historical element]. **[Name of Historical Attraction 2]**: [Brief placeholder description...]"
+    *   **Gyeongsan Alleys (Future Focus):**
+        *   **Content:** This section will be expanded with specific alley information once gathered. For now, it's a placeholder.
+        *   **Placeholder Text:** "**Gyeongsan's Hidden Alleys & Unique Streets**: [Introductory text about the charm of exploring local alleys will go here. We are currently gathering information on specific historical alleys, themed streets, and unique walkways that offer a glimpse into Gyeongsan's local culture and history. Check back soon for detailed guides! Placeholder: Image of an inviting Korean alleyway.]"
+        *   **Placeholder for Specific Alley 1 (Example):** "**[Future Alley Name, e.g., Artisan's Way]**: [Detailed description of this specific alley, its history, unique characteristics, notable spots like craft shops, murals, or traditional houses will be added here once research is complete.]"
+    *   **Parks and Nature:**
+        *   **Content:** Placeholder for 1-2 natural attractions or parks.
+        *   **Placeholder Text for Park 1:** "[Image of a park or natural scene]. **[Name of Park/Natural Spot 1]**: [Brief placeholder description of the park, what visitors can do there, e.g., hiking, picnics...]"
+    *   **Modern Gyeongsan:**
+        *   **Content:** Placeholder for 1-2 modern attractions or landmarks.
+        *   **Placeholder Text for Modern Spot 1:** "[Image of a modern Gyeongsan spot]. **[Name of Modern Attraction 1]**: [Brief placeholder description...]"
+    *   **Map Integration (Placeholder):**
+        *   **Placeholder Text:** "[An interactive map highlighting the locations of these attractions will be embedded here.]"
+
+---
+
+### C. Food & Restaurants Page (Near Kyungil University Area)
+
+*   **Purpose:** Guide visitors (especially students or those visiting the university) to good food options.
+*   **Key Sections/Content Blocks:**
+    *   **Introduction to Gyeongsan's Culinary Scene (near Kyungil Uni):**
+        *   **Placeholder Text:** "Fuel Your Studies & Adventures: Discover the best eats around Kyungil University! Gyeongsan offers a vibrant mix of cheap and cheerful student favorites, traditional Korean flavors, and trendy cafes perfect for a study break or a meal with friends."
+    *   **Student-Favorite Restaurants (Placeholder for 2-3 listings):**
+        *   **Placeholder Text for Restaurant 1:** "[Image of a popular Korean student meal, e.g., tteokbokki, kimbap]. **[Restaurant Name 1 - e.g., 'Kyungil Snack Bar']**: A popular spot for [type of food, e.g., delicious and affordable Korean street food]. Known for its [mention a specialty or why it's popular]. [Brief description of ambiance/price range]. Location: [General vicinity to Kyungil University]."
+        *   **Placeholder Text for Restaurant 2:** "[Image of another type of food]. **[Restaurant Name 2 - e.g., 'Campus Katsu']**: Specializing in [type of food]. A go-to for students looking for [description]. Location: [General vicinity to Kyungil University]."
+    *   **Cafes for Study and Relaxation (Placeholder for 2-3 listings):**
+        *   **Placeholder Text for Cafe 1:** "[Image of a cozy cafe interior or coffee]. **[Cafe Name 1 - e.g., 'The Study Bean']**: Perfect for [activity, e.g., quiet study sessions or catching up with friends]. Offers [mention coffee, tea, desserts]. Vibe: [description of atmosphere]. Location: [General vicinity to Kyungil University]."
+        *   **Placeholder Text for Cafe 2:** "[Image of a different cafe style]. **[Cafe Name 2 - e.g., 'Artisan Brews']**: Known for its [specialty, e.g., unique coffee blends or handmade cakes]. A great spot to [activity]. Location: [General vicinity to Kyungil University]."
+    *   **Unique Local Cuisine (Placeholder for 1-2 listings, if applicable to the area):**
+        *   **Placeholder Text:** "[Image of a unique local dish]. **[Restaurant Name for Local Dish]**: Experience authentic Gyeongsan flavors at [Restaurant Name]. This place offers [mention specific local dish or type of cuisine] that you won't find everywhere. Location: [General vicinity to Kyungil University, or note if it requires a short trip]."
+    *   **Map Integration (Placeholder):**
+        *   **Placeholder Text:** "[An interactive map showing locations of these restaurants and cafes near Kyungil University will be here.]"
+
+---
+
+### D. Recommended Dating Courses Page
+
+*   **Purpose:** Provide curated dating itineraries combining Gyeongsan's attractions and dining.
+*   **Key Sections/Content Blocks:**
+    *   **Introduction to Romantic Gyeongsan:**
+        *   **Placeholder Text:** "Romantic Escapades in Gyeongsan: Whether it's a first date or a special anniversary, Gyeongsan offers charming spots and memorable experiences. Explore our curated dating courses designed to impress!"
+    *   **Dating Course 1: "Campus Charm & Cafe Hopping" (University Area Focus)**
+        *   **Theme:** Casual, student-friendly, exploring near Kyungil University.
+        *   **Placeholder Text:**
+            *   "**Morning/Afternoon:** [Placeholder: Start with a stroll through a scenic part of Kyungil University's campus (if publicly accessible and picturesque) or a nearby park. E.g., 'Wander through the [Name of Campus Green Space/Park] near KIU, enjoying the fresh air and student buzz.']"
+            *   "**Lunch/Coffee:** [Placeholder: Visit a recommended student-friendly cafe or casual restaurant from the Food & Restaurants page. E.g., 'Grab a delicious and affordable lunch at [Student Restaurant Name] or enjoy coffee and cake at [Cafe Name near KIU].']"
+            *   "**Activity:** [Placeholder: Suggest a simple activity. E.g., 'Browse a local bookstore, visit a nearby unique shop, or find a spot for conversation.']"
+            *   "**Why it's a great date:** [Placeholder: E.g., 'Relaxed, budget-friendly, and perfect for getting to know each other.']"
+    *   **Dating Course 2: "Historical Romance & Scenic Views" (Broader Gyeongsan)**
+        *   **Theme:** Exploring Gyeongsan's history and natural beauty.
+        *   **Placeholder Text:**
+            *   "**Morning:** [Placeholder: Visit a key historical attraction. E.g., 'Step back in time at [Name of Historical Attraction from Gyeongsan Attractions page].']"
+            *   "**Lunch:** [Placeholder: Suggest a restaurant with character or good views. E.g., 'Enjoy a traditional Korean meal at a restaurant known for its ambiance near [Historical Attraction].']"
+            *   "**Afternoon:** [Placeholder: Explore a scenic area or an interesting alley. E.g., 'Take a romantic walk through [Scenic Park/Nature Spot] or explore the [Placeholder for a future Gyeongsan Alley name] for unique sights.']"
+            *   "**Evening (Optional):** [Placeholder: Suggest a spot for sunset or a nice dinner. E.g., 'Find a viewpoint for sunset or enjoy dinner at a restaurant with evening ambiance.']"
+            *   "**Why it's a great date:** [Placeholder: E.g., 'Culturally enriching, offers beautiful photo opportunities, and shared experiences.']"
+    *   **Dating Course 3: "Art, Alleys & Appetites" (Creative & Exploratory)**
+        *   **Theme:** Focus on unique spots, potential art scenes, and food discovery.
+        *   **Placeholder Text:**
+            *   "**Activity 1:** [Placeholder: Explore a unique street or an area with potential for art/crafts. E.g., 'Discover the charm of [Placeholder for future Gyeongsan Alley/Art Street], looking for murals or local artisan shops.']"
+            *   "**Coffee/Snack:** [Placeholder: Visit a themed or particularly aesthetic cafe. E.g., 'Recharge at [Unique Cafe Name] known for its creative drinks or atmosphere.']"
+            *   "**Activity 2:** [Placeholder: Suggest another engaging activity. E.g., 'Visit a local market (if any interesting ones are identified), a small gallery, or attend a local event if available.']"
+            *   "**Dinner:** [Placeholder: Try a restaurant with a unique menu or lively atmosphere. E.g., 'End the day with a flavorful meal at [Interesting Restaurant Name].']"
+            *   "**Why it's a great date:** [Placeholder: E.g., 'Fun, exploratory, and great for couples who enjoy discovering hidden gems together.']"
+
+---
+
+### E. Kyungil University - Department of Design Convergence Promotion Page
+
+*   **Purpose:** Attract prospective students by showcasing the department's strengths, programs, and student life/career prospects.
+*   **Key Sections/Content Blocks:**
+    *   **Hero Section: Welcome to the Future of Design!**
+        *   **Content:** Dynamic image representing design, innovation, or students working on projects.
+        *   **Placeholder Text:** "[Hero Image: Students collaborating in a modern design studio, or an abstract image representing digital design and creativity]. **Kyungil University: Department of Design Convergence - Shape Tomorrow's World.** Join a forward-thinking community where your creative vision meets cutting-edge technology."
+    *   **About the Department:**
+        *   **Vision & Mission:**
+            *   **Placeholder Text:** "[Our Vision: To be a leading force in design education, fostering convergent thinkers and innovative creators who can address complex global challenges. Our Mission: To provide a dynamic learning environment that integrates diverse design disciplines, encourages interdisciplinary collaboration, and equips students with the skills and mindset for future success.]"
+        *   **Why Choose Design Convergence at Kyungil University?:**
+            *   **Placeholder Text:** "[List 3-4 key selling points. E.g., Interdisciplinary Approach: Our curriculum uniquely blends [mention 2-3 fields like UX/UI, product design, media art, technology]. Industry Connections: Opportunities for internships and projects with leading companies in [relevant industries]. State-of-the-Art Facilities: Access to [mention labs, studios, equipment - e.g., VR labs, 3D printing studios, Mac labs]. Future-Focused Careers: Preparing you for emerging roles in the creative and tech industries.]"
+    *   **Program Highlights/Curriculum Overview:**
+        *   **Placeholder Text:** "[Information about the core philosophy of the curriculum. This section will detail the main study tracks, key courses, and the unique structure of the Design Convergence program. E.g., 'Our program is built on three core pillars: [Pillar 1, e.g., Human-Centered Design], [Pillar 2, e.g., Interactive Technology], and [Pillar 3, e.g., Sustainable Innovation]. Students will engage in courses like [Example Course 1], [Example Course 2], and complete a capstone project that showcases their convergent design skills. More detailed curriculum information will be available soon.]'"
+    *   **Student Projects Showcase (Placeholder for 2-3 project examples):**
+        *   **Placeholder Text for Project 1:** "[Image/Video placeholder for a student project]. **Project Title 1:** [Brief description of an outstanding student project, highlighting the problem it solved, the design process, and the technologies used. E.g., 'Smart City Navigation App - A project by [Student Name(s)] that rethinks urban wayfinding using AR technology.']"
+        *   **Placeholder Text for Project 2:** "[Image/Video placeholder for another student project]. **Project Title 2:** [Brief description of another distinct student project. E.g., 'Interactive Educational Toy - Designed by [Student Name(s)], this toy combines physical play with digital learning to teach children about [subject].']"
+        *   **Link to a more extensive gallery/portfolio page (future):** "[See more inspiring student work here -> (Link to future project gallery page)]"
+    *   **Faculty Introduction (Brief):**
+        *   **Placeholder Text:** "Meet Our Expert Faculty: Learn from experienced professors and industry professionals dedicated to nurturing the next generation of design leaders. [Link to a future detailed faculty page, or brief mention of faculty expertise areas. E.g., 'Our faculty specialize in areas like interaction design, sustainable futures, AI in creative industries, and more.']"
+    *   **Career Prospects & Alumni Success:**
+        *   **Placeholder Text:** "Launch Your Design Career: Graduates from our Department of Design Convergence are prepared for a wide range of exciting careers in fields such as: [List 5-7 potential career paths, e.g., UX/UI Designer, Product Innovator, Interaction Designer, Creative Technologist, Digital Media Artist, Service Designer, Design Consultant]. Our strong industry links and focus on future skills help our alumni thrive. [Placeholder for a brief alumni success story or testimonial, if available in the future].]"
+    *   **Admissions Information:**
+        *   **Placeholder Text:** "Ready to Join Us? Find out more about the application process, requirements, and important dates for admission to the Department of Design Convergence at Kyungil University. [Link to official university admissions page or provide key contact information/deadlines here. E.g., 'For detailed admission information, please visit the Kyungil University Admissions website or contact [email protected]']"
+    *   **Campus Life Snippet (related to the department or design students):**
+        *   **Placeholder Text:** "Vibrant Student Life: Experience a supportive and creative campus environment. Design students at Kyungil University engage in [mention clubs, workshops, exhibitions, collaborative projects]. [Placeholder: Image of students in a workshop or at a campus event]."
+
+---
+
+## 3. Placeholder Images (Sourcing and Naming)
+
+As I cannot directly source and save images, here is a list of themes and descriptive names for the required placeholder images. These would ideally be sourced from royalty-free sites like Pexels, Unsplash, or Pixabay, checking the license for each.
+
+1.  **`placeholder_gyeongsan_hero_1.jpg`**: A vibrant, wide shot of a notable Gyeongsan street, or a beautiful scenic landscape unique to the Gyeongsan area.
+    *   *Source Example:* Search "Korean traditional street" or "Korean city view" on Unsplash.
+2.  **`placeholder_alley_1.jpg`**: An inviting and aesthetically pleasing shot of a Korean alleyway. Could be narrow, have interesting textures, murals, or traditional elements.
+    *   *Source Example:* Search "Korean alley" or "Seoul alley" (as a proxy for general Korean alley aesthetic) on Pexels.
+3.  **`placeholder_campus_life_1.jpg`**: Diverse group of students collaborating, studying on a modern campus green, or engaged in a creative workshop.
+    *   *Source Example:* Search "university students Korea" or "campus life Asia" on Pixabay.
+4.  **`placeholder_korean_food_1.jpg`**: A colorful and appetizing flat lay or close-up of popular Korean dishes (e.g., bibimbap, Korean BBQ, selection of banchan).
+    *   *Source Example:* Search "Korean food" or "bibimbap" on Unsplash.
+5.  **`placeholder_design_innovation_1.jpg`**: Abstract or conceptual image representing design, technology, and creativity. Could be light trails, modern architectural detail, or someone interacting with a futuristic interface.
+    *   *Source Example:* Search "innovation abstract" or "design technology" on Pexels.
+6.  **`placeholder_romantic_korea_1.jpg`**: A scenic and romantic spot in Korea – perhaps a couple (silhouetted or not a focal point) enjoying a view, a beautifully lit bridge at night, or a picturesque cafe setting.
+    *   *Source Example:* Search "romantic Korea" or "couple travel Korea" on Pixabay.
+7.  **`placeholder_student_project_generic.jpg`**: A generic shot of a design student's desk with sketches, a laptop showing design software, or hands working on a prototype (not showing specific project details).
+    *   *Source Example:* Search "design student desk" or "creative workspace" on Unsplash.
+
+**License Note:** When sourcing actual images, it's crucial to check the license for each image (e.g., Creative Commons Zero - CC0, Pexels License, Unsplash License) and provide attribution if required. For placeholders, we are assuming generic, freely usable images are found.
+
+---
+This document outlines the sitemap, key content blocks for each page, and placeholder text. It also lists the types of placeholder images needed.
+The actual images would need to be sourced and placed in a `placeholder_images` directory.
